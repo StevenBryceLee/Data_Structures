@@ -1,0 +1,158 @@
+Test results are in nanoseconds
+Test results for this file:	Lab_4_Input_Files\Asc1000.txt
+	quickSort1		| 123400
+	quickSort50		| 172400
+	quickSort100		| 257899
+	heapsort		| 170800
+	quickSortMedian		| 121700
+
+Test results for this file:	Lab_4_Input_Files\Asc2000.txt
+	quickSort1		| 701800
+	quickSort50		| 1221899
+	quickSort100		| 589100
+	heapsort		| 180801
+	quickSortMedian		| 352900
+
+Test results for this file:	Lab_4_Input_Files\Asc50.txt
+	quickSort1		| 1500
+	quickSort50		| 10400
+	quickSort100		| 5701
+	heapsort		| 11601
+	quickSortMedian		| 8300
+
+Test results for this file:	Lab_4_Input_Files\Asc500.txt
+	quickSort1		| 42500
+	quickSort50		| 52600
+	quickSort100		| 72000
+	heapsort		| 95100
+	quickSortMedian		| 38800
+
+Test results for this file:	Lab_4_Input_Files\Asc5000.txt
+	quickSort1		| 4054900
+	quickSort50		| 5859399
+	quickSort100		| 4129000
+	heapsort		| 489599
+	quickSortMedian		| 2550300
+
+Test results for this file:	Lab_4_Input_Files\Des1000.txt
+	quickSort1		| 376500
+	quickSort50		| 423300
+	quickSort100		| 501900
+	heapsort		| 174200
+	quickSortMedian		| 426801
+
+Test results for this file:	Lab_4_Input_Files\Des2000.txt
+	quickSort1		| 1697200
+	quickSort50		| 2686100
+	quickSort100		| 1965099
+	heapsort		| 607801
+	quickSortMedian		| 1045400
+
+Test results for this file:	Lab_4_Input_Files\Des50.txt
+	quickSort1		| 2501
+	quickSort50		| 62400
+	quickSort100		| 5200
+	heapsort		| 13901
+	quickSortMedian		| 11400
+
+Test results for this file:	Lab_4_Input_Files\Des500.txt
+	quickSort1		| 218300
+	quickSort50		| 204900
+	quickSort100		| 182500
+	heapsort		| 137100
+	quickSortMedian		| 87300
+
+Test results for this file:	Lab_4_Input_Files\Des5000.txt
+	quickSort1		| 11974300
+	quickSort50		| 11888001
+	quickSort100		| 14137799
+	heapsort		| 1147300
+	quickSortMedian		| 5177199
+
+Test results for this file:	Lab_4_Input_Files\Sam1000.txt
+	quickSort1		| 257299
+	quickSort50		| 363800
+	quickSort100		| 348600
+	heapsort		| 63100
+	quickSortMedian		| 430601
+
+Test results for this file:	Lab_4_Input_Files\Sam2000.txt
+	quickSort1		| 1046800
+	quickSort50		| 1418300
+	quickSort100		| 1149000
+	heapsort		| 112201
+	quickSortMedian		| 1090700
+
+Test results for this file:	Lab_4_Input_Files\Sam50.txt
+	quickSort1		| 1600
+	quickSort50		| 3000
+	quickSort100		| 2501
+	heapsort		| 20500
+	quickSortMedian		| 3801
+
+Test results for this file:	Lab_4_Input_Files\Sam500.txt
+	quickSort1		| 68200
+	quickSort50		| 114800
+	quickSort100		| 111400
+	heapsort		| 73000
+	quickSortMedian		| 84800
+
+Test results for this file:	Lab_4_Input_Files\Sam5000.txt
+	quickSort1		| 6589800
+	quickSort50		| 6887500
+	quickSort100		| 9837299
+	heapsort		| 228001
+	quickSortMedian		| 9299700
+
+Test results for this file:	Lab_4_Input_Files\Shu1000.txt
+	quickSort1		| 64100
+	quickSort50		| 69100
+	quickSort100		| 69800
+	heapsort		| 174400
+	quickSortMedian		| 133199
+
+Test results for this file:	Lab_4_Input_Files\Shu2000.txt
+	quickSort1		| 147900
+	quickSort50		| 166101
+	quickSort100		| 150300
+	heapsort		| 389400
+	quickSortMedian		| 493000
+
+Test results for this file:	Lab_4_Input_Files\Shu50.txt
+	quickSort1		| 3000
+	quickSort50		| 70001
+	quickSort100		| 6900
+	heapsort		| 5900
+	quickSortMedian		| 23300
+
+Test results for this file:	Lab_4_Input_Files\Shu500.txt
+	quickSort1		| 31499
+	quickSort50		| 36500
+	quickSort100		| 33801
+	heapsort		| 58301
+	quickSortMedian		| 101100
+
+Test results for this file:	Lab_4_Input_Files\Shu5000.txt
+	quickSort1		| 400501
+	quickSort50		| 360899
+	quickSort100		| 388700
+	heapsort		| 935599
+	quickSortMedian		| 470401
+
+
+Summary measurements:
+Statistic       | Algorithm       | Time            |
+
+Total
+                | quickSort1      | 27403099        |
+                | quickSort50     | 31710501        |
+                | quickSort100    | 33555799        |
+                | heapsort        | 4153006         |
+                | quickSortMedian | 21480301        |
+
+Average
+                | quickSort1      | 1370154         |
+                | quickSort50     | 1585525         |
+                | quickSort100    | 1677789         |
+                | heapsort        | 207650          |
+                | quickSortMedian | 1074015         |
